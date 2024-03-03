@@ -56,6 +56,6 @@ Joined Github 1 month ago.
 
 <div align="center">
 
-### Let's become friends on [Twitter](https://twitter.com/harshpandey002)!
+### Let's become friends on [Twitter](https://twitter.com/Deshmukhom01)!
 
 </div>
