@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Om Shankar Deshmukh!](https://www.harshkumarpandey.com/) and you've reached my Dev space on the WWW :)
+## Hey 👋, I'm [Om Shankar Deshmukh!](https:) and you've reached my Dev space on the WWW :)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.harshkumarpandey.com/) -->
 
