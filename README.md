@@ -7,7 +7,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshpandey_002/)
 [![Dev.to Badge](https:)](https:)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=harshpandey002&color=blue)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=omshankardeshmukh01&color=blue)
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
