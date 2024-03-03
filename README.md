@@ -25,15 +25,15 @@ Joined Github 1 month ago.
 - 📝 &nbsp; I 
 - 👾 &nbsp; Fun fact:
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Deshmukhom01) 
-- 🚀 &nbsp; My [Portfolio Website](https://www.harshkumarpandey.com/) is Dope AF!
+- 🚀 &nbsp; My [Portfolio Website](https:) is Dope AF!
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to build user interfaces with cool animations.
-- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
+- 📰 &nbsp; 
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: There is a 88% probability that I'll beat you in a badminton and table tennis match :p
+- ⚡ &nbsp; Fun fact:  :p
 
 ### Weapons:
 
@@ -46,16 +46,11 @@ Joined Github 1 month ago.
 <a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=black&color=1CA1B8"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Etherjs-black?style=for-the-badge&logo=ethereum&&logoColor=white&labelColor=black&color=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&&logoColor=white&labelColor=black&color=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=hardhat&&logoColor=white&labelColor=black&color=white"/></a>
 
 
 <a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&labelColor=black&color=eb3471"/></a>
 
 #
 
