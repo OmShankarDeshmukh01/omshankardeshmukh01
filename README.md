@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshpandey002/](https://www.linkedin.com/in/om-shankar-deshmukh-7431b9245/))
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/harshpandey002](https://twitter.com/Deshmukhom01))
 [![Dev.to Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshpandey_002/)
-[![Dev.to Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=HumbleBundle&logoColor=white)](https://www.harshkumarpandey.com/)
+[![Dev.to Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=HumbleBundle&logoColor=white)](https:)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=harshpandey002&color=blue)
 
@@ -13,7 +13,7 @@
 
 Currently working as freelance dev at [BlockTrain](https://www.blocktrain.info/). I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
 
-Joined Github 3 years ago.
+Joined Github 1 month ago.
 
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
