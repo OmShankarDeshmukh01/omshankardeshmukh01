@@ -19,8 +19,8 @@ Joined Github 1 month ago.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with .
-- 👀 &nbsp; I am learning .
+- 🛠 &nbsp; At the moment working on Myself.
+- 👀 &nbsp; I am learning MERN Stack.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/OmShankarDeshmukh01) are genuine.
 - 📝 &nbsp; I 
 - 👾 &nbsp; Fun fact:
