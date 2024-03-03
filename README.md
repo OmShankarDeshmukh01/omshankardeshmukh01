@@ -11,7 +11,7 @@
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
-Currently working as freelance dev at [BlockTrain](https://www.blocktrain.info/). I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
+
 
 Joined Github 1 month ago.
 
