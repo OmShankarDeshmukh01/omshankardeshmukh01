@@ -12,7 +12,7 @@
 
 
  
-Joined Github 1 month ago.
+Joined Github 6 months ago.
 ERROR!
 javac /tmp/TEGKkIERIv/Book.java
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
