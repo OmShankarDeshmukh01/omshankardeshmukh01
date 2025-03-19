@@ -19,7 +19,7 @@ Joined Github 1.5 years ago.
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working on Myself.
-- 👀 &nbsp; I am learning IOS Developmenty.
+- 👀 &nbsp; I am learning IOS Development.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/OmShankarDeshmukh01) are genuine.
 - 📝 &nbsp; I 
 - 👾 &nbsp; Fun fact:
