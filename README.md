@@ -19,12 +19,12 @@ Joined Github 1.5 years ago.
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working on Myself.
-- 👀 &nbsp; I am learning MERN Stack.
+- 👀 &nbsp; I am learning IOS Developmenty.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/OmShankarDeshmukh01) are genuine.
 - 📝 &nbsp; I 
 - 👾 &nbsp; Fun fact:
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Deshmukhom01) 
-- 🚀 &nbsp; My [Portfolio Website](https:) is Dope AF!
+- 🚀 &nbsp; My [Portfolio Website]([https:](https://port-folio-om-shankar-deshmukhs-projects.vercel.app/)) is Dope AF!
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
 ### My Absolute Favorites:
