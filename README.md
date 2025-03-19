@@ -12,7 +12,7 @@
 
 
  
-Joined Github 6 months ago.
+Joined Github 1.5 years ago.
 
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
